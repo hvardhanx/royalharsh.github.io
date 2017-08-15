@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>accent - Articles</title>
+    <description>The chosen one!
+</description>
+    <link>
+    http://thehvardhan.me</link>
+    
+      
+      <item>
+        <title>Web Summit 2016</title>
+        
+          <description>&lt;p&gt;&lt;img src=&quot;../../images/websummit/web_summit.png&quot; alt=&quot;Web Summit 2016, Lisbon&quot; /&gt;
+&lt;img src=&quot;../../images/websummit/bmw.jpg&quot; alt=&quot;BMW&quot; /&gt;
+&lt;img src=&quot;../../images/websummit/umbre.jpg&quot; alt=&quot;Image contains Umbrellas,people&quot; /&gt;
+&lt;img src=&quot;../../images/websummit/web2.jpg&quot; alt=&quot;Image contains screen&quot; /&gt;
+&lt;img src=&quot;../../images/websummit/web1.jpg&quot; alt=&quot;Image contains screen&quot; /&gt;&lt;/p&gt;
+</description>
+        
+        <pubDate>Tue, 15 Nov 2016 00:00:00 +0530</pubDate>
+        <link>
+        http://thehvardhan.me/Web-Summit-2016.html</link>
+        <guid isPermaLink="true">http://thehvardhan.me/Web-Summit-2016.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>A Trip To Lisbon</title>
+        
+          <description>
+&lt;p&gt;Here are some of the pictures I took in Lisbon. I’ll update the blog the soon. Until then, you can follow me on &lt;a href=&quot;https://www.instagram.com/royalharsh95/&quot;&gt;Instagram&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/royalharsh95&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 15 Nov 2016 00:00:00 +0530</pubDate>
+        <link>
+        http://thehvardhan.me/A-Trip-to-Lisbon.html</link>
+        <guid isPermaLink="true">http://thehvardhan.me/A-Trip-to-Lisbon.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>The Dsa Issue</title>
+        
+          <description>&lt;h3 id=&quot;what-is-dsa&quot;&gt;What is DSA?&lt;/h3&gt;
+
+</description>
+        
+        <pubDate>Fri, 28 Oct 2016 00:00:00 +0530</pubDate>
+        <link>
+        http://thehvardhan.me/The-DSA-issue.html</link>
+        <guid isPermaLink="true">http://thehvardhan.me/The-DSA-issue.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Hello World !</title>
+        
+          <description>&lt;p&gt;Hey, there! I’m Harsh Vardhan and I am a software developer. I’ll be blogging whenever I get some free time. Hope to see some content here about my life and the silly things I do.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 15 Sep 2016 00:00:00 +0530</pubDate>
+        <link>
+        http://thehvardhan.me/hello-world-!.html</link>
+        <guid isPermaLink="true">http://thehvardhan.me/hello-world-!.html</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
